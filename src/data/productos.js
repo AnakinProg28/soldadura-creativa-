@@ -57,7 +57,7 @@ export const PRODUCTOS_POR_CATEGORIA = {
       id: 'enam-1',
       nombre: 'Rosa Forjada "Amor Eterno"',
       precio: 38.00,
-      imagen: 'https://ibb.co/tMhjPztm',
+      imagen: 'https://i.ibb.co/ccSDTGs2/IMG-20260916-WA0017.jpg',
       descripcion: 'Rosa esculpida y forjada 100% a mano en chapa de acero de calibre pesado. Pétalos moldeados individualmente a fuego con tallo espinado y acabado en cobre pulido con laca anticorrosiva transparente. Un regalo que nunca se marchita.',
       detalles: 'Material: Acero al carbón y baño de cobre | Altura: 32 cm | Peso: 480 g'
     },
