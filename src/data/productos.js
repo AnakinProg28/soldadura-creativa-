@@ -20,7 +20,7 @@ export const CATEGORIAS = [
     icono: '🎉',
     subtitulo: 'Celebraciones y homenajes únicos en acero',
     descripcion: 'Sorprende con obsequios divertidos, esculturas temáticas de pasatiempos, porta botellas y trofeos forjados a mano con tuercas, tornillos y soldadura de precisión.',
-    imagen: 'https://images.unsplash.com/photo-1513151233558-d860c5398176?w=800&h=800&fit=crop&q=80'
+    imagen: 'https://i.ibb.co/3mHGYJqC/PORTACELULAR.jpg'
   },
   {
     id: 'decorativo',
@@ -130,11 +130,11 @@ export const PRODUCTOS_POR_CATEGORIA = {
     },
     {
       id: 'cump-2',
-      nombre: 'Figura Músico / Guitarrista',
+      nombre: 'Figura Atlas Urbano',
       precio: 39.00,
-      imagen: 'https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800&h=800&fit=crop&q=80',
-      descripcion: 'Figura artística en metal de un guitarrista en pleno concierto. Cuerpo construido con rodamientos y bujías, sosteniendo una mini guitarra soldada con cuerdas de alambre acerado.',
-      detalles: 'Material: Tuercas, bujías y alambre de acero | Altura: 21 cm | Acabado brillante'
+      imagen: 'https://i.ibb.co/3mHGYJqC/PORTACELULAR.jpg',
+      descripcion: 'Figura artística en metal de un Atlas sosteniendo una barra metálica. Cuerpo construido con rodamientos y bujías, sosteniendo una varilla de metal ideal para colocar el celular o la tablet.',
+      detalles: 'Material: Tuercas, catalinas y piezas de acero | Altura: 40 cm | Acabado mate | color celeste '
     },
     {
       id: 'cump-3',
@@ -189,11 +189,11 @@ export const PRODUCTOS_POR_CATEGORIA = {
   decorativo: [
     {
       id: 'deco-1',
-      nombre: 'Lámpara Geométrica Industrial',
-      precio: 58.00,
-      imagen: 'https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&h=800&fit=crop&q=80',
-      descripcion: 'Lámpara de mesa con estructura icosaédrica en varilla de hierro pulido. Incluye socket vintage de latón envejecido, cable textil trenzado café y foco Edison ámbar de filamento expuesto.',
-      detalles: 'Material: Hierro, latón y socket E27 | Foco Edison incluido | Medidas: 24 x 24 cm'
+      nombre: 'Figura Decorativa de Shen Long',
+      precio: 40.00,
+      imagen: 'https://i.ibb.co/0jwLXxHx/SHENLONG.jpg',
+      descripcion: 'Escultura metálica con estructura icosaédrica en varilla de hierro pulido. Incluye parante vintage de latón envejecido, con colores atractivos.',
+      detalles: 'Material: Hierro, latón y parante metálico | Empaque incluido | Medidas: 50 x 30 cm'
     },
     {
       id: 'deco-2',
