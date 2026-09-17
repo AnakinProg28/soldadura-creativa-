@@ -11,7 +11,7 @@ export const CATEGORIAS = [
     icono: '❤️',
     subtitulo: 'Regalos y detalles eternos forjados en metal',
     descripcion: 'Piezas artesanales creadas para simbolizar un amor inquebrantable. Forjadas a fuego lento con detalles florales, corazones entrelazados y acabados brillantes protegidos contra la corrosión.',
-    imagen: 'https://i.ibb.co/zh59HFYn/2fbbc02992e2bf689406e28a2f45157d.webp'
+    imagen: 'https://i.ibb.co/zW3gYB5J/ROSAS-ROJAS.jpg'
   },
   {
     id: 'cumpleanos',
