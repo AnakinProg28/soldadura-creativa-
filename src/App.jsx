@@ -169,7 +169,7 @@ function App() {
     mensaje += `%0A💰 *Total estimado:* $${subtotal.toFixed(2)}%0A`
     mensaje += `%0AQuedo atento/a para coordinar pago y entrega. ¡Muchas gracias!`
 
-    const urlWhatsApp = `https://wa.me/5215555555555?text=${mensaje}`
+    const urlWhatsApp = `https://wa.me/+51960904365?text=${mensaje}`
     window.open(urlWhatsApp, '_blank')
   }
 
