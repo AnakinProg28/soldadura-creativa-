@@ -38,7 +38,7 @@ export const CATEGORIAS = [
     icono: '⚡',
     subtitulo: 'Esculturas y piezas abstractas al calor del arco',
     descripcion: 'Obras de arte exclusivas que exploran las formas orgánicas, figuras míticas y el poder del metal fusionado. Piezas tridimensionales pulidas con acabados térmicos irisados únicos.',
-    imagen: 'https://images.unsplash.com/photo-1504917599217-d4dc5ebe6122?w=800&h=800&fit=crop&q=80'
+    imagen: 'https://i.ibb.co/k2ZKtzKN/moto-artistico.jpg'
   },
   {
     id: 'personalizados',
@@ -47,7 +47,7 @@ export const CATEGORIAS = [
     icono: '🛠️',
     subtitulo: 'Tu visión forjada a medida con maestría',
     descripcion: 'Diseñamos y fabricamos exactamente lo que imaginas: letreros calados con nombres o logos comerciales, siluetas de mascotas, bases de mesas y placas decorativas a medida.',
-    imagen: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=800&h=800&fit=crop&q=80'
+    imagen: 'https://i.ibb.co/c5zbXt9/mesa-centro-terraza.jpg'
   }
 ]
 
@@ -164,7 +164,7 @@ export const PRODUCTOS_POR_CATEGORIA = {
       id: 'cump-6',
       nombre: 'Escultura Ciclista en Cadena',
       precio: 38.00,
-      imagen: 'https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=800&h=800&fit=crop&q=80',
+      imagen: 'https://i.ibb.co/k2ZKtzKN/moto-artistico.jpg',
       descripcion: 'Divertida y detallada escultura de un ciclista en ruta elaborada con eslabones de cadena de bicicleta, tuercas y varilla delgada. El regalo soñado para amantes del deporte y ciclismo.',
       detalles: 'Material: Cadena de acero y tornillería | Dimensiones: 19 x 14 cm'
     },
@@ -223,7 +223,7 @@ export const PRODUCTOS_POR_CATEGORIA = {
       id: 'deco-5',
       nombre: 'Centro de Mesa Hoja de Metal',
       precio: 39.50,
-      imagen: 'https://images.unsplash.com/photo-1578500494198-246f612d03b3?w=800&h=800&fit=crop&q=80',
+      imagen: 'https://i.ibb.co/c5zbXt9/mesa-centro-terraza.jpg',
       descripcion: 'Bandeja decorativa en forma de hoja de monstera o palma calada en placa de acero y moldeada con curvatura suave para contener frutas, llaves o elementos secos aromáticos.',
       detalles: 'Material: Chapa de acero con acabado bronce antiguo | Medidas: 42 x 22 cm'
     },
@@ -258,7 +258,7 @@ export const PRODUCTOS_POR_CATEGORIA = {
       id: 'art-1',
       nombre: 'Escultura "Espíritu de Fuego"',
       precio: 95.00,
-      imagen: 'https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=800&h=800&fit=crop&q=80',
+      imagen: 'https://i.ibb.co/k2ZKtzKN/moto-artistico.jpg',
       descripcion: 'Obra abstracta que evoca la llamarada y la fuerza de la creación. Láminas de acero moldeadas en espiral ascendente con gradientes térmicos en azul, ámbar y púrpura generados con soplete.',
       detalles: 'Material: Acero al carbón con coloración térmica natural y laca brillante | Altura: 45 cm'
     },
@@ -379,10 +379,10 @@ export const PRODUCTOS_POR_CATEGORIA = {
     },
     {
       id: 'pers-8',
-      nombre: 'Base Geométrica para Mesa',
+      nombre: 'Mesa de Centro para Terraza',
       precio: 160.00,
-      imagen: 'https://images.unsplash.com/photo-1533090161767-e6ffed986c88?w=800&h=800&fit=crop&q=80',
-      descripcion: 'Estructura o patas de mesa en perfil cuadrado de acero soldado con geometría en cruz o trapezoidal. Lista con orificios avellanados para instalar cubiertas de madera o cristal.',
+      imagen: 'https://i.ibb.co/c5zbXt9/mesa-centro-terraza.jpg',
+      descripcion: 'Estructura o patas de mesa en perfilcircular de acero soldado con geometría en cruz o trapezoidal. Lista con orificios avellanados para instalar cubiertas de metal o cristal.',
       detalles: 'Material: Perfil tubular estructural de 2 pulgadas | Medidas a petición del cliente'
     }
   ]
