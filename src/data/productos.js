@@ -65,7 +65,7 @@ export const PRODUCTOS_POR_CATEGORIA = {
       id: 'enam-2',
       nombre: 'Corazones Entrelazados en Acero',
       precio: 34.50,
-      imagen: 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=800&h=800&fit=crop&q=80',
+      imagen: 'https://i.ibb.co/fdJsvWyp/CORAZONES-ENTRELAZADOS.jpg',
       descripcion: 'Dos corazones en varilla lisa forjados y fusionados con soldadura TIG dorada. Montados sobre una base de madera maciza tratada con acabado rústico. Representa la unión y fortaleza de una pareja.',
       detalles: 'Material: Varilla de hierro pulido y madera de pino curada | Dimensiones: 22 x 18 cm'
     },
@@ -87,10 +87,10 @@ export const PRODUCTOS_POR_CATEGORIA = {
     },
     {
       id: 'enam-5',
-      nombre: 'Ramo de 3 Rosas Forjadas',
-      precio: 89.00,
+      nombre: 'Ramo de 2 Rosas Forjadas',
+      precio: 70.00,
       imagen: 'https://i.ibb.co/zW3gYB5J/ROSAS-ROJAS.jpg',
-      descripcion: 'Trío de rosas en diferentes etapas de floración (botón, semi-abierta y abierta). Hojas texturizadas con cincel y unidas con cordón de soldadura invisible en base de hierro forjado con forma de cinta metálica.',
+      descripcion: 'Dúo de rosas en diferentes etapas de floración (semi-abierta y abierta). Hojas texturizadas con cincel y unidas con cordón de soldadura invisible en base de hierro forjado con forma de cinta metálica.',
       detalles: 'Material: Acero dulce y toques dorados al calor | Altura: 35 cm | Base incluida'
     },
     {
