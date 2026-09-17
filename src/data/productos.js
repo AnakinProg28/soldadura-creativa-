@@ -89,7 +89,7 @@ export const PRODUCTOS_POR_CATEGORIA = {
       id: 'enam-5',
       nombre: 'Ramo de 3 Rosas Forjadas',
       precio: 89.00,
-      imagen: '[url=https://ibb.co/cKW9HZvL][img]https://i.ibb.co/zW3gYB5J/ROSAS-ROJAS.jpg[/img][/url]',
+      imagen: 'https://i.ibb.co/zW3gYB5J/ROSAS-ROJAS.jpg',
       descripcion: 'Trío de rosas en diferentes etapas de floración (botón, semi-abierta y abierta). Hojas texturizadas con cincel y unidas con cordón de soldadura invisible en base de hierro forjado con forma de cinta metálica.',
       detalles: 'Material: Acero dulce y toques dorados al calor | Altura: 35 cm | Base incluida'
     },
