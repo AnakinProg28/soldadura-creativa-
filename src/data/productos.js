@@ -29,7 +29,7 @@ export const CATEGORIAS = [
     icono: '🏠',
     subtitulo: 'Diseño industrial y calidez para tus espacios',
     descripcion: 'Lámparas vintage estilo Edison, relojes murales esqueleto, centros de mesa y repisas geométricas diseñadas para transformar salas, comedores y oficinas con estilo industrial contemporáneo.',
-    imagen: 'https://ibb.co/VWKGNsfs'
+    imagen: 'https://i.ibb.co/0jwLXxHx/SHENLONG.jpg'
   },
   {
     id: 'artistico',
