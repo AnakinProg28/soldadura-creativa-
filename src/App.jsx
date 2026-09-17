@@ -783,7 +783,7 @@ function App() {
 
                   {/* Botón de Consulta Rápida a WhatsApp */}
                   <a
-                    href={`https://wa.me/5215555555555?text=¡Hola%20Soldadura%20Creativa!%20Me%20interesa%20la%20pieza%20*${encodeURIComponent(productoSeleccionado.nombre)}*%20($${productoSeleccionado.precio.toFixed(2)}).%20¿Tienen%20disponibilidad%20inmediata?`}
+                    href={`https://wa.me/+51960904365text=¡Hola%20Soldadura%20Creativa!%20Me%20interesa%20la%20pieza%20*${encodeURIComponent(productoSeleccionado.nombre)}*%20($${productoSeleccionado.precio.toFixed(2)}).%20¿Tienen%20disponibilidad%20inmediata?`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn-modal-whatsapp"
