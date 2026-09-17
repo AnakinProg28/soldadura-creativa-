@@ -29,7 +29,7 @@ export const CATEGORIAS = [
     icono: '🏠',
     subtitulo: 'Diseño industrial y calidez para tus espacios',
     descripcion: 'Lámparas vintage estilo Edison, relojes murales esqueleto, centros de mesa y repisas geométricas diseñadas para transformar salas, comedores y oficinas con estilo industrial contemporáneo.',
-    imagen: 'https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&h=800&fit=crop&q=80'
+    imagen: 'https://ibb.co/VWKGNsfs'
   },
   {
     id: 'artistico',
@@ -89,7 +89,7 @@ export const PRODUCTOS_POR_CATEGORIA = {
       id: 'enam-5',
       nombre: 'Ramo de 3 Rosas Forjadas',
       precio: 89.00,
-      imagen: 'https://images.unsplash.com/photo-1563245372-f21724e3856d?w=800&h=800&fit=crop&q=80',
+      imagen: 'https://ibb.co/cKW9HZvL',
       descripcion: 'Trío de rosas en diferentes etapas de floración (botón, semi-abierta y abierta). Hojas texturizadas con cincel y unidas con cordón de soldadura invisible en base de hierro forjado con forma de cinta metálica.',
       detalles: 'Material: Acero dulce y toques dorados al calor | Altura: 35 cm | Base incluida'
     },
