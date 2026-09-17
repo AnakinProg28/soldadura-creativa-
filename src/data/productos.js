@@ -124,7 +124,7 @@ export const PRODUCTOS_POR_CATEGORIA = {
       id: 'cump-1',
       nombre: 'Porta Botellas Herrero',
       precio: 45.00,
-      imagen: 'https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&h=800&fit=crop&q=80',
+      imagen: 'https://i.ibb.co/mrCBh7LS/porta-vino.jpg',
       descripcion: 'Escultura funcional que representa a un artesano soldador sosteniendo con orgullo tu botella favorita de vino, licor o mezcal. Fabricado con tuercas, tornillos y varillas unidas con soldadura MIG.',
       detalles: 'Material: Piezas de acero reciclado y tuercas | Capacidad: Botella estándar de 750 ml'
     },
